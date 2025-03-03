@@ -17,7 +17,7 @@ export default function Terms() {
 
         <p className="text-gray-700">
           The following terms govern your access to and use of this AI chatbot,
-          a personal artificial intelligence learning tool to be used only to the extent of studying material for a pharmacy releated exam. It is not to be used for medical advise nor for medical decision making process.
+          a personal artificial intelligence learning tool to be used only to the extent of studying pharmacy related material for personal knowledge. It is not to be used for any academic assignment that would violate honor codes. It is not to be used for medical advise nor for medical decision making process. In no way should this bot be used for anything more than personal study, with the understanding that the bots responses may not be accurate, complete, or up to date. 
           By using the chatbot, you agree to these terms. If you do not agree,
           please refrain from using the service.
         </p>
